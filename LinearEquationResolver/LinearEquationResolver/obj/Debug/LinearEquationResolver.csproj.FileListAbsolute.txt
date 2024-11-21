@@ -1,0 +1,7 @@
+D:\CodeGym#1\LinearEquationResolver\LinearEquationResolver\LinearEquationResolver\bin\Debug\LinearEquationResolver.exe.config
+D:\CodeGym#1\LinearEquationResolver\LinearEquationResolver\LinearEquationResolver\bin\Debug\LinearEquationResolver.exe
+D:\CodeGym#1\LinearEquationResolver\LinearEquationResolver\LinearEquationResolver\bin\Debug\LinearEquationResolver.pdb
+D:\CodeGym#1\LinearEquationResolver\LinearEquationResolver\LinearEquationResolver\obj\Debug\LinearEquationResolver.csproj.AssemblyReference.cache
+D:\CodeGym#1\LinearEquationResolver\LinearEquationResolver\LinearEquationResolver\obj\Debug\LinearEquationResolver.csproj.CoreCompileInputs.cache
+D:\CodeGym#1\LinearEquationResolver\LinearEquationResolver\LinearEquationResolver\obj\Debug\LinearEquationResolver.exe
+D:\CodeGym#1\LinearEquationResolver\LinearEquationResolver\LinearEquationResolver\obj\Debug\LinearEquationResolver.pdb
